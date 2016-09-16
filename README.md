@@ -21,21 +21,7 @@ Table of Contents
 * [Fixed positioning](#fixed-positioning)
 * [Invisible content](#invisible-content)
 * [Other](#other)
-
-
-# Borders
-# Typograpy
-    ## Text alignment
-    ## Text transform
-    ## Font weight and italics
-# Widths
-# CSS display
-# Floats
-# Clearfix
-# Fixed positioning
-# Invisible content
-# Other
-
+* [Credits](#credits)
 
 Spacing
 ============
@@ -87,3 +73,8 @@ Invisible content
 
 Other
 ============
+
+Credits
+============
+[Materialize](https://github.com/Dogfalo/materialize)
+[Bootstrap](https://github.com/twbs/bootstrap)
