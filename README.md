@@ -82,16 +82,13 @@ Here are some representative examples of these classes:
 
 Vertical centering
 --------------------
-<div class="valign-wrapper" style="display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center;  height: 200px; background-color: rgb(221, 221, 221);">
-<h5 class="valign center" style="width: 100%; text-align: center;">Vertically aligned</h5></div>
+
 
 Horizontal centering
 --------------------
 `.m-x-auto` class for horizontally centering fixed-width block level content by setting the horizontal margins to auto.
 
-<div style="width: 200px; background-color: rgba(86,61,124,.15); margin-right: auto!important; margin-left: auto!important;">Centered element</div>
-
-```
+```html
 <div class="m-x-auto" style="width: 200px;">
 Centered element
 </div>
