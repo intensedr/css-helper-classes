@@ -4,11 +4,11 @@ A small CSS library of utility classes
 Table of Contents
 =================
 
-* [Spacing](#)
-    * [Margin](#)
-    * [Padding](#)
-    * [Vertical centering](#)
-    * [Horizontal centering](#)
+* [Spacing](#spacing)
+    * [Margin](#margin)
+    * [Padding](#padding)
+    * [Vertical centering](#vertical centering)
+    * [Horizontal centering](#horizontal centering)
 * [Borders](#)
 * [Typograpy](#)
     * [Text alignment](#)
