@@ -91,7 +91,7 @@ Horizontal centering
 
 <div style="width: 200px; background-color: rgba(86,61,124,.15); margin-right: auto!important; margin-left: auto!important;">Centered element</div>
 
-```html
+```
 <div class="m-x-auto" style="width: 200px;">
 Centered element
 </div>
